@@ -1,0 +1,25 @@
+Initialize engine version: 5.2.5f1 (ad2d0368e248)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.068 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x2160 at 0,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Avix (Original)\Documents\RIT Work (Local)\IGME 202 (IM)\Blank_Asteroids\Blank_Asteroids_Build\Blank_AsteroidsExecutable_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1da0 -> priority: 1 
