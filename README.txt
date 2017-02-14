@@ -10,7 +10,7 @@ This project recreates the classic Atari videogame, “Asteroids”.  The player
 
 User Responsibilities:
 
--Please play the game using the default screen size (1024, 768) as some things may look bizarre if you make the screen bigger or smaller. Also the ability points dialogue may look out of place, it ended up being placed in a different location on export.
+-(Export Instruction) Please play the game using the default screen size (1024, 768) as some things may look bizarre if you make the screen bigger or smaller. Also the ability points dialogue may look out of place, it ended up being placed in a different location on export.
 
 -Press the arrow keys to move the ship. The ‘Left’ and ‘Right’ keys will rotate the ship to the left and right respectively. The ‘Up’ key will move the ship forward in its current direction. The ‘Down’ key will move the ship backwards (opposite its current direction).
 
